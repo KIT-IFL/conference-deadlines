@@ -2,13 +2,9 @@ title: AI Conference Deadlines
 description: Countdowns to CV/NLP/ML/Robotics/AI conference deadlines. Overview of deadlines and conference dates in a calendar.
 author: Alexander Naumann
 
-domain: "deadlines.info"
 baseurl: ""
 
-twitter:
-  username: AlexN4u
-  hashtag: machinelearning
-github_username: a-nau
+github_username: KIT-IFL
 github_repo: conference-deadlines
 
 conference_threshold_millisec: 31557600000 # show only conference with deadlines before...
