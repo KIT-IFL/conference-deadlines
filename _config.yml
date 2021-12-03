@@ -2,7 +2,8 @@ title: AI Conference Deadlines
 description: Countdowns to CV/NLP/ML/Robotics/AI conference deadlines. Overview of deadlines and conference dates in a calendar.
 author: Alexander Naumann
 
-baseurl: ""
+domain: "https://kit-ifl.github.io/"
+baseurl: "/conference-deadlines"
 
 github_username: KIT-IFL
 github_repo: conference-deadlines
