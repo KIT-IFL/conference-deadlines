@@ -1,7 +1,8 @@
 name,sub,color
 Machine Learning,ML,#a0c4ff
-Computer Vision,CV,#9bf6ff
-Natural Language Proc,NLP,#ffd6a5
-Robotics,RO,#caffbf
-Speech/SigProc,SP,#ffc6ff
-Data Mining,DM,#bdb2ff
+Computer Vision,CV,#a0c4ff
+Natural Language Proc,NLP,#a0c4ff
+Robotic Systems,RO,#a0c4ff
+Operations Research,OR,#ffc6ff
+Simulation,SIM,#ffc6ff
+Stochastic Modelling,ST,#ffc6ff
